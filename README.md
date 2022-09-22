@@ -6,5 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NAKKA-K&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on IT company in Tokyo
+- :pencil: I’m currently using PHP8, Golang, AWS
 - 🌱 I’m currently learning AWS CDK (Golang cdk, CDK pipeline)
-- 📫 How to reach me: twitter: @konsent_nakka
+- 📫 How to reach me: https://twitter.com/konsent_nakka
